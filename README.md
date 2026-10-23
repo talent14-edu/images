@@ -1,0 +1,2 @@
+# images
+Genwi template gorselleri
